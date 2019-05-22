@@ -1,0 +1,16 @@
+body{
+	background-image: url("Images/background-image1.jpg");
+	margin: 0px 50px 0px 50px;
+}
+h1{
+	background-color: blue;
+
+}
+li{background-color: grey;
+padding: 5px;
+margin: 10px;
+color: #471d7d;
+
+list-style-type: none;
+}
+
