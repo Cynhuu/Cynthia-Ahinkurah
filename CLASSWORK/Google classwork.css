@@ -1,0 +1,46 @@
+
+
+
+
+.Googlepix{
+
+	align-content: center;
+}
+.nav1{
+	padding: 50px;
+}
+
+.nav2{
+	padding: 50px;
+}
+
+.searchbox{
+	align-content: center;
+}
+.input{
+	width: 800px;
+	height: 30px;
+}
+.button{
+	text-align: center;
+}
+ a{
+ 	text-decoration: none;
+ 	padding: 30px;
+ 	color: black;
+ }
+
+ .nav1-left{
+ 	float: left;
+ }
+
+.nav1-right{
+	float: right;
+}
+.nav2-left{
+	float: left;
+
+}
+.nav2-right{
+float: right;
+}
